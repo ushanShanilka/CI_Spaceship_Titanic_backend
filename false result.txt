@@ -1,0 +1,21 @@
+
+Earth
+Home Planet *
+False
+Cryosleep *
+TRAPPIST-1e
+Destination *
+19
+Age *
+False
+VIP *
+0
+RoomService *
+9
+Food Court *
+0
+Shopping Mall *
+0
+Spa *
+2823
+VRDeck *
